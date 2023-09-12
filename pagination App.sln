@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pagination App", "pagination App\pagination App.csproj", "{7A52C23C-FB74-4DC9-B645-7F1809660272}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A52C23C-FB74-4DC9-B645-7F1809660272}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A52C23C-FB74-4DC9-B645-7F1809660272}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A52C23C-FB74-4DC9-B645-7F1809660272}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A52C23C-FB74-4DC9-B645-7F1809660272}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC8E1807-F461-4A7F-B58F-9020EA1A13D7}
+	EndGlobalSection
+EndGlobal
